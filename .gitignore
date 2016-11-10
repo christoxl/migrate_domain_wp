@@ -1,0 +1,5 @@
+# Environment folder
+env
+
+# Don't upload this file
+.gitignore
