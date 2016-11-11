@@ -1,13 +1,11 @@
 #! env/bin/python
 
-"""
-Name:   migrate.py
-Desc:   Make the updates in db to change the domain of a Wordpress site
-Author: Christopher Perez <christoxl@gmail.com>
-Notes:  This script assumes you have installed MySQL Connector in
-        your environment, you can install it using pip with the
-        command 'pip install mysql-connector'
-"""
+# Name:   migrate.py
+# Desc:   Make the updates in db to change the domain of a Wordpress site
+# Author: Christopher Perez <christoxl@gmail.com>
+# Notes:  This script assumes you have installed MySQL Connector in
+#         your environment, you can install it using pip with the
+#         command 'pip install mysql-connector'
 
 import mysql.connector
 
