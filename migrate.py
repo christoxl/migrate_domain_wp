@@ -14,7 +14,7 @@ if __name__ == '__main__':
     db_name = ''
     db_user = ''
     db_password = ''
-    db_host = ''  # Change if your database is in another host
+    db_host = 'localhost'  # Change if your database is in another host
 
     # Set your old and new domain names
     old_domain = ''
